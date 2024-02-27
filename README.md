@@ -48,6 +48,8 @@ Table of Contents
    * [Miscellaneous](#miscellaneous)
    * [APIs, Data and ML](#apis-data-and-ml)
    * [Other Free Resources](#other-free-resources)
+   * Convert HTML to React Native Code using React-strict-dom
+     
 
 ## Source Code Repos
 
